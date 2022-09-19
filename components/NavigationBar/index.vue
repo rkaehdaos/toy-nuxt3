@@ -1,8 +1,8 @@
 <template>
-  <div>
-    <NavigationBar/>
-    <div>index</div>
-  </div>
+  <nav>
+    <NuxtLink to="/">Home</NuxtLink>
+    <NuxtLink to="/login">Login</NuxtLink>
+  </nav>
 </template>
 
 <script>

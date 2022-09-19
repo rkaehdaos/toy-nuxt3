@@ -1,8 +1,7 @@
 <template>
   <div>
-    <nav>
-      <NuxtLink to="/">Goto Index</NuxtLink>
-    </nav>
+    <NavigationBar/>
+    <div>login</div>
   </div>
 </template>
 
