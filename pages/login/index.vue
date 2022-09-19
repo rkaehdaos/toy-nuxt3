@@ -1,6 +1,5 @@
 <template>
   <div>
-    <NavigationBar/>
     <div>login</div>
   </div>
 </template>
