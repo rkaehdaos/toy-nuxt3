@@ -1,11 +1,8 @@
 <template>
   <div>
-    <div>
-      <nav>
-        <NuxtLink to="/login">Go to Login</NuxtLink>
-      </nav>
-    </div>
-    <div>index</div>
+    <nav>
+      <NuxtLink to="/">Goto Index</NuxtLink>
+    </nav>
   </div>
 </template>
 
